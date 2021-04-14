@@ -16,8 +16,7 @@
     // color gradient will be use. Feel free to set to your
     // own colors
     backgroundColor: [
-      new Color("#29323c"), 
-      new Color("#1c1c1c")
+      new Color("#ffffff"),
     ],
   
     // The font to use for the words in the word clock
