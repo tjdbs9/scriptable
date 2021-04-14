@@ -334,7 +334,7 @@
       // 열시
       defaultHighlights[1][3] = true;
       defaultHighlights[2][4] = true;
-    } else if (hour >= 23 && hour < 0) {
+    } else if (hour >= 23 && hour < 24) {
       // 열한시
       defaultHighlights[1][3] = true;
       defaultHighlights[1][4] = true;
